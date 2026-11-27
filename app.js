@@ -13,7 +13,7 @@ const portfolio = {
         "links": [
             {
                 "rotulo": "GitHub",
-                "url": "https://github.com"
+                "url": "https://github.com/WallaceAlves01"
             },
             {
                 "rotulo": "LinkedIn",
@@ -26,7 +26,7 @@ const portfolio = {
             "id": "sobre",
             "titulo": "Sobre mim",
             "tipo": "texto",
-            "conteudo": "Escreva aqui um parágrafo contando sua trajetória, interesses e o que você busca na área de tecnologia."
+            "conteudo": "Gosto muito de resolver problemas"
         },
         {
             "id": "habilidades",
