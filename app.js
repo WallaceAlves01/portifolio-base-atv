@@ -1,7 +1,7 @@
 const portfolio = {
     "tema": {
         "corPrimaria": "#6c1eac",
-        "corFundo": "#0f172a",
+        "corFundo": "#281c2b",
         "corCard": "#1e293b",
         "corTexto": "#f8fafc"
     },
