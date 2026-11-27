@@ -9,7 +9,7 @@ const portfolio = {
         "nome": "Wallace Alves",
         "cargo": "Estudante de Tecnologia | Desenvolvedor(a)",
         "resumo": "Apaixonado por resolver problemas com código, aprender novas tecnologias e construir projetos práticos.",
-        "foto": "./https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Froblox-bear.fandom.com%2Ff%2Fp%2F4400000000000090324&ved=0CBcQjRxqFwoTCIC7_9upqJgDFQAAAAAdAAAAABBV&opi=89978449",
+        "foto": "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Froblox-bear.fandom.com%2Ff%2Fp%2F4400000000000090324&ved=0CBcQjRxqFwoTCIC7_9upqJgDFQAAAAAdAAAAABBV&opi=89978449",
         "links": [
             {
                 "rotulo": "GitHub",
